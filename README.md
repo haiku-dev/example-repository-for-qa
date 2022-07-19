@@ -2,8 +2,8 @@
 
 ## Шаблон
 
-Я, [@stcherenkov](https://github.com/stcherenkov), поучаствовал в обучении "Git для QA". 
+Я, [@NikTsep](https://github.com/NikTsep), поучаствовал в обучении "Git для QA". 
 Самыми полезными для меня были темы:
-* тема
-* тема
-* тема
+* все
+* Ребейз
+* флоу
