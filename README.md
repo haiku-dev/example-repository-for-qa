@@ -1,9 +1,3 @@
-# Кто поучаствовал в обучении?
-
-## Шаблон
-
-Я, [@stcherenkov](https://github.com/stcherenkov), поучаствовал в обучении "Git для QA". 
+Я, [@PavelAngelHaiku](https://github.com/PavelAngelHaiku), поучаствовал в обучении "Git для QA". 
 Самыми полезными для меня были темы:
-* тема
-* тема
-* тема
+* последние 20мин обучения
